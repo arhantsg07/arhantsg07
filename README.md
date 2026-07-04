@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **arhantsg07/arhantsg07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Arhant 👋
+
+I'm a Computer Science student who enjoys building backend systems and learning how software works under the hood.
+
+## Interests
+
+- C++
+- Backend Development
+- Linux
+- Systems Programming
+- Networking
+
+## Currently
+
+- Learning Modern C++
+- Practicing DSA
+- Building backend applications with NestJS
+- Exploring networking and system design
+
+---
+> I use GitHub to document what I build and what I learn.
