@@ -31,5 +31,8 @@ I'm a Computer Science student who enjoys building backend systems and learning 
 - Building backend applications with NestJS
 - Exploring networking and system design
 
+### Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,typescript,nodejs,nextjs,postgres,docker,linux,git)](https://skillicons.dev)
 ---
 > I use GitHub to document what I build and what I learn.
