@@ -33,6 +33,10 @@ I'm a Computer Science student who enjoys building backend systems and learning 
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,typescript,nodejs,nextjs,postgres,docker,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,go,typescript,nodejs,nextjs,postgres,docker,linux,git)](https://skillicons.dev)
+---
+
+<p align="left"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=arhantsg07&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhantsg07&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhantsg07&theme=tokyonight&hide_border=true" /> </p>
+
 ---
 > I use GitHub to document what I build and what I learn.
